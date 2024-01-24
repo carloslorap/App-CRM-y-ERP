@@ -122,7 +122,6 @@ import { KpiMensualComponent } from './components/rendimiento/kpi-mensual/kpi-me
     RouterModule,
     routing,
     FormsModule,
-    //ImageDrawingModule,
     HttpClientModule,
     NgbPaginationModule,
     NgbModule,
