@@ -12,6 +12,6 @@ if (month <= 9) {
 let str_today = year + '-' + month + '-' + day
 
 export const GLOBAL ={
-  url:"http://localhost:4000/api/",
+  url:"https://cmryerp-server.onrender.com/api/",
   str_today:str_today
 }
