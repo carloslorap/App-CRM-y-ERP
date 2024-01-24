@@ -32,6 +32,7 @@
           "configurations": {
             "production": {
               "optimization": false,
+              "sourceMap": false,
               "extractLicenses": false,
               "buildOptimizer": false,
               "budgets": [
